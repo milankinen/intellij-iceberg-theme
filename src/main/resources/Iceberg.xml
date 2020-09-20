@@ -1,0 +1,5 @@
+<scheme name="Iceberg" version="142" parent_scheme="Darcula">
+  <colors>
+    <option name="DOCUMENTATION_COLOR" value="1f212f" />
+  </colors>
+</scheme>

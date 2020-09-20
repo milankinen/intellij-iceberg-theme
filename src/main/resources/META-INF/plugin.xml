@@ -10,6 +10,7 @@
     <extensions defaultExtensionNs="com.intellij">
         <applicationService serviceImplementation="com.github.milankinen.ideaicebergtheme.services.MyApplicationService"/>
         <projectService serviceImplementation="com.github.milankinen.ideaicebergtheme.services.MyProjectService"/>
+        <themeProvider id="5b145824-a9e7-494a-9062-b95fd7c3baad" path="/Iceberg.theme.json"/>
     </extensions>
 
     <projectListeners>
