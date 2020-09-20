@@ -27,6 +27,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="Clojure Keyword">
+      <value>
+        <option name="FOREGROUND" value="9b95c0" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="6b7089" />
@@ -37,7 +43,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="99b6bf" />
+        <option name="FOREGROUND" value="a59fcc" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -70,7 +76,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="abadb3" />
+        <option name="FOREGROUND" value="c6c8cf" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -102,7 +108,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="99b6bf" />
+        <option name="FOREGROUND" value="a59fcc" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -208,10 +214,50 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="Rainbow Parens Level 2">
+      <value>
+        <option name="FOREGROUND" value="993d3f" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 3">
+      <value>
+        <option name="FOREGROUND" value="ebb065" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 4">
+      <value>
+        <option name="FOREGROUND" value="b7bc8f" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 5">
+      <value>
+        <option name="FOREGROUND" value="5475c0" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 6">
+      <value>
+        <option name="FOREGROUND" value="99b6bf" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 7">
+      <value>
+        <option name="FOREGROUND" value="ebb065" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 8">
+      <value>
+        <option name="FOREGROUND" value="9b95c0" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 9">
+      <value>
+        <option name="FOREGROUND" value="806e4d" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="abadb3" />
-        <option name="BACKGROUND" value="16181f" />
+        <option name="FOREGROUND" value="c6c8cf" />
+        <option name="BACKGROUND" value="161821" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
