@@ -1,7 +1,7 @@
 {
   "name": "Iceberg",
   "dark": true,
-  "author": "",
+  "author": "Matti Lankinen",
   "editorScheme": "/Iceberg.xml",
   "ui": {
     "*": {
@@ -28,7 +28,7 @@
       "modifiedItemForeground": "#EBCB8B",
       "selectionBackground": "#2C3353",
       "selectionBackgroundInactive": "#434c5e",
-      "selectionForeground": "#FF0000",
+      "selectionForeground": "#8DA0C0",
       "selectionInactiveBackground": "#1F212F",
       "selectionInactiveForeground": "#6B7089",
       "separatorColor": "#1F212F",
@@ -81,14 +81,9 @@
       "border": "#1F212F"
     },
     "CompletionPopup": {
-      "background": "#16181F",
-      "matchForeground": "#2C3353",
-      "matchSelectionForeground": "#2C3353",
-      "nonFocusedState": "#16181F",
+      "matchForeground": "#8DA0C0",
       "selectionBackground": "#2C3353",
-      "selectionInactiveBackground": "#2C3353",
-      "selectionInactiveInfoForeground": "#2C3353",
-      "selectionInfoForeground": "#eceff4"
+      "selectionInactiveBackground": "#2C3353"
     },
     "Component": {
       "errorFocusColor": "#C8817D",
@@ -120,15 +115,11 @@
       "caretForeground": "#eceff4"
     },
     "EditorTabs": {
-      "borderColor": "#16181F",
-      "hoverMaskColor": "#2C3353",
-      "inactiveColoredFileBackground": "#16181F",
-      "inactiveMaskColor": "#1F212F",
+      "borderColor": "#1F212F",
       "inactiveUnderlineColor": "#6B7089",
-      "selectedBackground": "#2C3353",
-      "selectedForeground": "#C6C8CF",
       "underlineColor": "#2C3353",
-      "underlinedTabBackground": "#2C3353"
+      "underlinedTabBackground": "#1F212F",
+      "hoverBackground": "#2C3353"
     },
     "FileColor": {
       "Blue": "#8DA0C01A",
@@ -153,15 +144,19 @@
       "selectedForeground": "#1F212F"
     },
     "Link": {
-      "activeForeground": "#2C3353",
-      "hoverForeground": "#2C3353",
-      "pressedForeground": "#2C3353",
-      "secondaryForeground": "#81a1c1",
-      "visitedForeground": "#2C3353"
+      "activeForeground": "#464C6B",
+      "hoverForeground": "#6B7089",
+      "pressedForeground": "#6B7089",
+      "secondaryForeground": "#8DA0C0",
+      "visitedForeground": "#464C6B"
     },
     "List": {
       "background": "#16181F",
       "selectionInactiveForeground": "#e5e9f0"
+    },
+    "MemoryIndicator": {
+      "allocatedBackground": "#1F212F",
+      "usedBackground": "#2C3353"
     },
     "Menu": {
       "background": "#16181F",
@@ -298,8 +293,8 @@
       }
     },
     "SearchMatch": {
-      "endBackground": "#2C3353",
-      "startBackground": "#2C3353"
+      "endBackground": "#8DA0C0",
+      "startBackground": "#8DA0C0"
     },
     "SidePanel": {
       "background": "#16181F"
@@ -451,11 +446,11 @@
       "Checkbox.Border.Default.Dark": "#2C3353",
       "Checkbox.Border.Disabled.Dark": "#1F212F",
       "Checkbox.Border.Selected.Dark": "#2C3353",
-      "Checkbox.Focus.Thin.Default.Dark": "#2C3353",
-      "Checkbox.Focus.Thin.Selected.Dark": "#2C3353",
+      "Checkbox.Focus.Thin.Default.Dark": "#6B7089",
+      "Checkbox.Focus.Thin.Selected.Dark": "#6B7089",
       "Checkbox.Focus.Wide.Dark": "#2C3353",
       "Checkbox.Foreground.Disabled.Dark": "#2C3353",
-      "Checkbox.Foreground.Selected.Dark": "#2C3353",
+      "Checkbox.Foreground.Selected.Dark": "#8DA0C0",
       "Objects.BlackText": "#16181F",
       "Objects.Blue": "#8DA0C0",
       "Objects.Green": "#B7BC8F",
