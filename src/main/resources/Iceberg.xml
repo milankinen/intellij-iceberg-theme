@@ -2,18 +2,25 @@
   <colors>
     <option name="CARET_ROW_COLOR" value="1f212f" />
     <option name="DOCUMENTATION_COLOR" value="1f212f" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="212121" />
     <option name="GUTTER_BACKGROUND" value="1f212f" />
+    <option name="INDENT_GUIDE" value="2c3353" />
     <option name="LINE_NUMBERS_COLOR" value="464c6b" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="8da0c0" />
     <option name="READONLY_BACKGROUND" value="1f212f" />
     <option name="RIGHT_MARGIN_COLOR" value="464c6b" />
     <option name="SELECTED_INDENT_GUIDE" value="464c6b" />
-    <option name="SELECTION_BACKGROUND" value="2c3353" />
+    <option name="SELECTION_BACKGROUND" value="464c6b" />
     <option name="VISUAL_INDENT_GUIDE" value="464c6b" />
     <option name="WHITESPACES" value="464c6b" />
-    <option name="INDENT_GUIDE" value="2c3353" />
   </colors>
   <attributes>
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a59fcc" />
+      </value>
+    </option>
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="c8817d" />
@@ -22,14 +29,14 @@
     </option>
     <option name="CTRL_CLICKABLE">
       <value>
-        <option name="FOREGROUND" value="8da0c0" />
+        <option name="FOREGROUND" value="7c96bf" />
         <option name="EFFECT_COLOR" value="8da0c0" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="Clojure Keyword">
       <value>
-        <option name="FOREGROUND" value="9b95c0" />
+        <option name="FOREGROUND" value="857cbf" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -43,7 +50,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="a59fcc" />
+        <option name="FOREGROUND" value="857cbf" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -108,7 +115,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="a59fcc" />
+        <option name="FOREGROUND" value="857cbf" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -128,7 +135,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="99b6bf" />
+        <option name="FOREGROUND" value="b7bc8f" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -157,7 +164,7 @@
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8da0c0" />
+        <option name="FOREGROUND" value="7c96bf" />
         <option name="EFFECT_COLOR" value="8da0c0" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -171,8 +178,21 @@
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8da0c0" />
+        <option name="FOREGROUND" value="7c96bf" />
         <option name="EFFECT_COLOR" value="8da0c0" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="242940" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a59fcc" />
+        <option name="EFFECT_COLOR" value="a59fcc" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -201,6 +221,7 @@
         <option name="BACKGROUND" value="1f212f" />
       </value>
     </option>
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="c8817d" />
@@ -254,6 +275,11 @@
         <option name="FOREGROUND" value="806e4d" />
       </value>
     </option>
+    <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="857cbf" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c6c8cf" />
@@ -268,6 +294,11 @@
         <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
     </option>
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="5475c0" />
+      </value>
+    </option>
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="b7bc8f" />
@@ -276,7 +307,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="52503a" />
+        <option name="BACKGROUND" value="333130" />
         <option name="ERROR_STRIPE_COLOR" value="ebcb8b" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
