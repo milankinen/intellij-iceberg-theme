@@ -3,6 +3,20 @@
     <option name="CARET_ROW_COLOR" value="1f212f" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DOCUMENTATION_COLOR" value="1f212f" />
+    <option name="FILESTATUS_ADDED" value="b7bc8f" />
+    <option name="FILESTATUS_COPIED" value="b7bc8f" />
+    <option name="FILESTATUS_DELETED" value="c8817d" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="c8817d" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="6d7087" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d2a885" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d2a885" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d2a885" />
+    <option name="FILESTATUS_MERGED" value="9b95c0" />
+    <option name="FILESTATUS_MODIFIED" value="9b95c0" />
+    <option name="FILESTATUS_RENAMED" value="99b6bf" />
+    <option name="FILESTATUS_addedOutside" value="8da0c0" />
+    <option name="FILESTATUS_changelistConflict" value="d2a885" />
+    <option name="FILESTATUS_modifiedOutside" value="9b95c0" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="212121" />
     <option name="GUTTER_BACKGROUND" value="1f212f" />
     <option name="INDENT_GUIDE" value="2c3353" />
@@ -14,20 +28,6 @@
     <option name="SELECTION_BACKGROUND" value="464c6b" />
     <option name="VISUAL_INDENT_GUIDE" value="464c6b" />
     <option name="WHITESPACES" value="464c6b" />
-    <option name="FILESTATUS_ADDED" value="B7BC8F" />
-    <option name="FILESTATUS_COPIED" value="B7BC8F" />
-    <option name="FILESTATUS_DELETED" value="C8817D" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="C8817D" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="6D7087" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="D2A885" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="D2A885" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="D2A885" />
-    <option name="FILESTATUS_MERGED" value="9B95C0" />
-    <option name="FILESTATUS_MODIFIED" value="9B95C0" />
-    <option name="FILESTATUS_RENAMED" value="99B6BF" />
-    <option name="FILESTATUS_addedOutside" value="8DA0C0" />
-    <option name="FILESTATUS_changelistConflict" value="D2A885" />
-    <option name="FILESTATUS_modifiedOutside" value="9B95C0" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
