@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.github.milankinen.ideaicebergtheme</id>
-    <name>idea-iceberg-theme</name>
-    <vendor>milankinen</vendor>
+    <name>Iceberg</name>
+    <vendor>Matti Lankinen</vendor>
 
     <!-- Product and plugin compatibility requirements -->
     <!-- https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html -->
