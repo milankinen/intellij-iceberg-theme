@@ -1,5 +1,6 @@
 <scheme name="Iceberg" version="142" parent_scheme="Darcula">
   <colors>
+    <option name="ADDED_LINES_COLOR" value="364736" />
     <option name="CARET_ROW_COLOR" value="1f212f" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DOCUMENTATION_COLOR" value="1f212f" />
@@ -22,12 +23,14 @@
     <option name="INDENT_GUIDE" value="2c3353" />
     <option name="LINE_NUMBERS_COLOR" value="464c6b" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="8da0c0" />
+    <option name="MODIFIED_LINES_COLOR" value="2c3353" />
     <option name="READONLY_BACKGROUND" value="1f212f" />
     <option name="RIGHT_MARGIN_COLOR" value="464c6b" />
     <option name="SELECTED_INDENT_GUIDE" value="464c6b" />
     <option name="SELECTION_BACKGROUND" value="464c6b" />
     <option name="VISUAL_INDENT_GUIDE" value="464c6b" />
     <option name="WHITESPACES" value="464c6b" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="464c6b" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
