@@ -314,7 +314,7 @@
       "borderColor": "#1F212F"
     },
     "TabbedPane": {
-      "foreground": "#FF0000",
+      "foreground": "#C6C8CF",
       "contentAreaColor": "#2C3353",
       "disabledUnderlineColor": "#2C3353",
       "focus": "#1F212F",
@@ -373,9 +373,9 @@
         "background": "#2C3353"
       },
       "HeaderTab": {
-        "hoverBackground": "#81a1c1",
+        "hoverBackground": "#464C6B",
+        "underlineColor": "#6B7089",
         "hoverInactiveBackground": "#2C3353",
-        "selectedBackground": "#81a1c1",
         "selectedInactiveBackground": "#2C3353"
       }
     },
