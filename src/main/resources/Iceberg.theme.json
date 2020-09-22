@@ -149,8 +149,8 @@
       "selectedForeground": "#1F212F"
     },
     "Link": {
-      "activeForeground": "#464C6B",
-      "hoverForeground": "#6B7089",
+      "activeForeground": "#C6C8CF",
+      "hoverForeground": "#8DA0C0",
       "pressedForeground": "#6B7089",
       "secondaryForeground": "#8DA0C0",
       "visitedForeground": "#464C6B"
@@ -227,7 +227,7 @@
       "inactiveBorderColor": "#161821",
       "innerBorderColor": "#161821",
       "Header": {
-        "activeBackground": "#434c5e"
+        "activeBackground": "#1F212F"
       }
     },
     "ProgressBar": {
@@ -367,7 +367,7 @@
         "selectedForeground": "#6B7089"
       },
       "Header": {
-        "background": "#2C3353"
+        "background": "#1F212F"
       },
       "HeaderCloseButton": {
         "background": "#2C3353"
