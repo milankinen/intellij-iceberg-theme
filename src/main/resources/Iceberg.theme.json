@@ -18,10 +18,10 @@
       "focusedBorderColor": "#2C3353",
       "foreground": "#6B7089",
       "inactiveBackground": "#1F212F",
-      "inactiveForeground": "#C6C8CF",
-      "infoForeground": "#C6C8CF",
+      "inactiveForeground": "#A1A1A7",
+      "infoForeground": "#A1A1A7",
       "lightSelectionBackground": "#2C3353",
-      "lightSelectionForeground": "#eceff4",
+      "lightSelectionForeground": "#A1A1A7",
       "lightSelectionInactiveBackground": "#434c5e",
       "lightSelectionInactiveForeground": "#C6C8CF",
       "lineSeparatorColor": "#1F212F",
@@ -47,7 +47,7 @@
       "ContrastBorderColor": "#0F1117"
     },
     "Button": {
-      "foreground": "#C6C8CF",
+      "foreground": "#A1A1A7",
       "endBackground": "#2C3353",
       "endBorderColor": "#2C3353",
       "focusedBorderColor": "#464C6B",
@@ -59,7 +59,7 @@
         "endBorderColor": "#2C3353",
         "focusColor": "#6B7089",
         "focusedBorderColor": "#6B7089",
-        "foreground": "#C6C8CF",
+        "foreground": "#A1A1A7",
         "shadowColor": "#161821",
         "startBackground": "#2C3353",
         "startBorderColor": "#2C3353"
@@ -145,7 +145,7 @@
       "shortcutForeground": "#2C3353"
     },
     "Label": {
-      "foreground": "#eceff4",
+      "foreground": "#a1a1a7",
       "selectedForeground": "#1F212F"
     },
     "Link": {
@@ -339,6 +339,7 @@
       "selectionForeground": "#C6C8CF"
     },
     "TextField": {
+      "foreground": "#C6C8CF",
       "background": "#1F212F",
       "caretForeground": "#eceff4",
       "darkShadow": "#1F212F"
