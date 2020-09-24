@@ -255,16 +255,16 @@
       "thumbShadow": "#161821",
       "track": "#161821",
       "trackColor": "#161821",
-      "trackHighlight": "#1E2132",
+      "trackHighlight": "#242940",
       "Mac": {
         "hoverThumbBorderColor": "#1E2132",
         "hoverThumbColor": "#1E2132",
         "hoverTrackColor": "#161821",
-        "thumbBorderColor": "#242940",
-        "thumbColor": "#242940",
+        "thumbBorderColor": "#4A527C",
+        "thumbColor": "#4A527C",
         "trackColor": "#161821",
         "Transparent": {
-          "hoverThumbColor": "#1E2132",
+          "hoverThumbColor": "#242940",
           "hoverTrackColor": "#161821",
           "thumbBorderColor": "#242940",
           "thumbColor": "#242940",
@@ -275,8 +275,8 @@
         "hoverThumbBorderColor": "#1E2132",
         "hoverThumbColor": "#1E2132",
         "hoverTrackColor": "#161821",
-        "thumbBorderColor": "#242940",
-        "thumbColor": "#242940",
+        "thumbBorderColor": "#4A527C",
+        "thumbColor": "#4A527C",
         "trackColor": "#161821"
       }
     },
