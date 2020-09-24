@@ -3,6 +3,7 @@
     <option name="ADDED_LINES_COLOR" value="364736" />
     <option name="CARET_ROW_COLOR" value="1e2132" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="242940" />
     <option name="DOCUMENTATION_COLOR" value="1e2132" />
     <option name="FILESTATUS_ADDED" value="b4be82" />
     <option name="FILESTATUS_COPIED" value="b4be82" />
@@ -24,10 +25,13 @@
     <option name="LINE_NUMBERS_COLOR" value="49527a" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="84a0c6" />
     <option name="MODIFIED_LINES_COLOR" value="1e2132" />
-    <option name="READONLY_BACKGROUND" value="1e2132" />
+    <option name="NOTIFICATION_BACKGROUND" value="4a527c" />
+    <option name="READONLY_BACKGROUND" value="161822" />
     <option name="RIGHT_MARGIN_COLOR" value="4a527c" />
     <option name="SELECTED_INDENT_GUIDE" value="4a527c" />
     <option name="SELECTION_BACKGROUND" value="242940" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="4a527c8c" />
+    <option name="ScrollBar.Mac.thumbColor" value="1e213259" />
     <option name="VISUAL_INDENT_GUIDE" value="4a527c" />
     <option name="WHITESPACES" value="4a527c" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="4a527c" />
@@ -321,6 +325,30 @@
         <option name="FOREGROUND" value="abadb3" />
         <option name="EFFECT_COLOR" value="c3c3c3" />
         <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="4d2929" />
+        <option name="ERROR_STRIPE_COLOR" value="4d2929" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="2c324d" />
+        <option name="ERROR_STRIPE_COLOR" value="2c324d" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="606646" />
+        <option name="ERROR_STRIPE_COLOR" value="606646" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="4a527c" />
+        <option name="ERROR_STRIPE_COLOR" value="4a527c" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
