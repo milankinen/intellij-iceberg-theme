@@ -198,18 +198,15 @@
     },
     "Plugins": {
       "eapTagBackground": "#8fbcbb",
-      "tagBackground": "#1E2132",
+      "tagBackground": "#4A527C",
       "tagForeground": "#c6c8d1",
       "Button": {
-        "installBackground": "#1E2132",
-        "installBorderColor": "#1E2132",
-        "installFillBackground": "#1E2132",
-        "installFillForeground": "#161821",
-        "installFocusedBackground": "#1E2132",
-        "installForeground": "#161821",
-        "updateBackground": "#81a1c1",
-        "updateBorderColor": "#81a1c1",
-        "updateForeground": "#161821"
+        "installBackground": "#A093C7",
+        "installBorderColor": "#A093C7",
+        "installForeground": "#1E2132",
+        "updateBackground": "#4A527C",
+        "updateBorderColor": "#4A527C",
+        "updateForeground": "#c6c8d1"
       },
       "SearchField": {
         "borderColor": "#1E2132"
