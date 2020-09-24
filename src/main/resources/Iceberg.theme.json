@@ -101,8 +101,8 @@
       "warningFocusColor": "#EBCB8B"
     },
     "Counter": {
-      "background": "#1E2132",
-      "foreground": "#161821"
+      "background": "#4A527C",
+      "foreground": "#c6c8d1"
     },
     "DebuggerTabs": {
       "selectedBackground": "#1E2132",
