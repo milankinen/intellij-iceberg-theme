@@ -401,17 +401,17 @@
         "localBranchIconColor": "#84A0C6",
         "otherIconColor": "#A093C7",
         "remoteBranchIconColor": "#89b8c2",
-        "tagIconColor": "#1E2132"
+        "tagIconColor": "#838593"
       },
       "HgLog": {
-        "bookmarkIconColor": "#d08770",
-        "branchIconColor": "#1E2132",
-        "closedBranchIconColor": "#7d8199",
-        "headIconColor": "#a3be8c",
-        "localTagIconColor": "#5e81ac",
-        "mqTagIconColor": "#8fbcbb",
+        "bookmarkIconColor": "#EBCB8B",
+        "branchIconColor": "#838593",
+        "closedBranchIconColor": "#A093C7",
+        "headIconColor": "#b4be82",
+        "localTagIconColor": "#84A0C6",
+        "mqTagIconColor": "#89b8c2",
         "tagIconColor": "#1E2132",
-        "tipIconColor": "#5e81ac"
+        "tipIconColor": "#84A0C6"
       },
       "Log": {
         "Commit": {
@@ -459,7 +459,7 @@
       "Checkbox.Foreground.Disabled.Dark": "#1E2132",
       "Checkbox.Foreground.Selected.Dark": "#84A0C6",
       "Objects.BlackText": "#161821",
-      "Objects.Blue": "#7280ba",
+      "Objects.Blue": "#84A0C6",
       "Objects.Green": "#b4be82",
       "Objects.GreenAndroid": "#a3be8c",
       "Objects.Grey": "#838593",
