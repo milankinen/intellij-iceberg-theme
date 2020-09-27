@@ -27,7 +27,6 @@ by [cocopon](https://github.com/cocopon).
   Download the [latest release](https://github.com/milankinen/intellij-iceberg-theme/releases/latest) and install it manually using
   <kbd>Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
----
-Plugin based on the [IntelliJ Platform Plugin Template][template].
+## License
 
-[template]: https://github.com/JetBrains/intellij-platform-plugin-template
+Apache 2.0
