@@ -30,6 +30,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="4a527c" />
     <option name="SELECTED_INDENT_GUIDE" value="4a527c" />
     <option name="SELECTION_BACKGROUND" value="333a59" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="84a0c6" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="4a527c8c" />
     <option name="ScrollBar.Mac.thumbColor" value="1e213259" />
     <option name="VISUAL_INDENT_GUIDE" value="4a527c" />
@@ -265,7 +266,12 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="84a0c6" />
+        <option name="FOREGROUND" value="a093c7" />
+      </value>
+    </option>
+    <option name="DEFAULT_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="a093c7" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -300,14 +306,12 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="84a0c6" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="a093c7" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="84a0c6" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="a093c7" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -363,6 +367,12 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="7d8199" />
+        <option name="BACKGROUND" value="323a5b" />
+      </value>
+    </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="7c96bf" />
@@ -402,8 +412,8 @@
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a59fcc" />
-        <option name="EFFECT_COLOR" value="a59fcc" />
+        <option name="FOREGROUND" value="c6c8d1" />
+        <option name="EFFECT_COLOR" value="c6c8d1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -433,6 +443,7 @@
       </value>
     </option>
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
@@ -624,7 +635,7 @@
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="5475c0" />
+        <option name="FOREGROUND" value="a093c7" />
       </value>
     </option>
     <option name="TYPO">
@@ -675,5 +686,7 @@
         <option name="FOREGROUND" value="afa9d9" />
       </value>
     </option>
+    <option name="DEFAULT_CLASS_NAME" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_INTERFACE_NAME" baseAttributes="DEFAULT_IDENTIFIER" />
   </attributes>
 </scheme>
