@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" height="200" src="https://raw.githubusercontent.com/milankinen/intellij-iceberg-theme/docs/src/main/resources/META-INF/pluginIcon.svg?sanitize=true"/>
+<img width="200" height="200" src="https://raw.githubusercontent.com/milankinen/intellij-iceberg-theme/main/src/main/resources/META-INF/pluginIcon.svg?sanitize=true"/>
 </p>
 
 # Iceberg theme for IntelliJ
