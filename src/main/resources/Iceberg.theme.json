@@ -382,7 +382,7 @@
     "Tree": {
       "background": "#161821",
       "selectionBackground": "#1E2132",
-      "selectionForeground": "#84A0C6"
+      "selectionForeground": "#c6c8d1"
     },
     "ValidationTooltip": {
       "errorBackground": "#e27878",
