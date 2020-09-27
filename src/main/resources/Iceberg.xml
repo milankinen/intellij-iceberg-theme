@@ -36,6 +36,8 @@
     <option name="VISUAL_INDENT_GUIDE" value="4a527c" />
     <option name="WHITESPACES" value="4a527c" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="4a527c" />
+    <option name="SELECTED_TEARLINE_COLOR" value="464f7a" />
+    <option name="TEARLINE_COLOR" value="242940" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -55,7 +57,6 @@
         <option name="FOREGROUND" value="afa9d9" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
         <option name="FOREGROUND" value="c6c8d1" />
@@ -173,7 +174,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="c6c8d1" />
@@ -184,7 +184,6 @@
         <option name="FOREGROUND" value="afa9d9" />
       </value>
     </option>
-    <option name="CSS.TAG_NAME" baseAttributes="HTML_TAG_NAME" />
     <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
     <option name="CTRL_CLICKABLE">
       <value>
@@ -442,8 +441,6 @@
         <option name="BACKGROUND" value="1e2132" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
@@ -686,7 +683,5 @@
         <option name="FOREGROUND" value="afa9d9" />
       </value>
     </option>
-    <option name="DEFAULT_CLASS_NAME" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_INTERFACE_NAME" baseAttributes="DEFAULT_IDENTIFIER" />
   </attributes>
 </scheme>
