@@ -1,34 +1,31 @@
-# intellij-iceberg-theme
+<p align="center">
+<img width="200" height="200" src="https://raw.githubusercontent.com/milankinen/intellij-iceberg-theme/docs/src/main/resources/META-INF/pluginIcon.svg?sanitize=true"/>
+</p>
 
-![Build](https://github.com/milankinen/idea-iceberg-theme/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+# Iceberg theme for IntelliJ
 
-## Template ToDo list
-- [x] Create a new [IntelliJ Platform Plugin Template][template] project.
-- [ ] Verify the [pluginGroup](/gradle.properties), [plugin ID](/src/main/resources/META-INF/plugin.xml) and [sources package](/src/main/kotlin).
-- [ ] Review the [Legal Agreements](https://plugins.jetbrains.com/docs/marketplace/legal-agreements.html).
-- [ ] [Publish a plugin manually](https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/publishing_plugin.html) for the first time.
-- [ ] Set the Plugin ID in the above README badges.
-- [ ] Set the [Deployment Token](https://plugins.jetbrains.com/docs/marketplace/plugin-upload.html).
-- [ ] Click the <kbd>Watch</kbd> button on the top of the [IntelliJ Platform Plugin Template][template] to be notified about releases containing new features and fixes.
+[![Build](https://img.shields.io/github/workflow/status/milankinen/intellij-iceberg-theme/Build?style=flat-square)](https://github.com/milankinen/intellij-iceberg-theme/actions?query=workflow%3ABuild)
+[![Version](https://img.shields.io/jetbrains/plugin/v/15126-iceberg.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/15126-iceberg)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/15126-iceberg.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/15126-iceberg)
 
 <!-- Plugin description -->
-My best effort to port [Iceberg](https://cocopon.github.io/iceberg.vim/) theme into IntelliJ platform.
+Dark blue color scheme for IntelliJ platform, based on [Iceberg](https://cocopon.github.io/iceberg.vim/) 
+by [cocopon](https://github.com/cocopon).
+
+![Example](./example.png)
 <!-- Plugin description end -->
 
 ## Installation
 
 - Using IDE built-in plugin system:
   
-  <kbd>Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "idea-iceberg-theme"</kbd> >
+  <kbd>Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "intellij-iceberg-theme"</kbd> >
   <kbd>Install Plugin</kbd>
   
 - Manually:
 
-  Download the [latest release](https://github.com/milankinen/idea-iceberg-theme/releases/latest) and install it manually using
+  Download the [latest release](https://github.com/milankinen/intellij-iceberg-theme/releases/latest) and install it manually using
   <kbd>Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
-
 
 ---
 Plugin based on the [IntelliJ Platform Plugin Template][template].
