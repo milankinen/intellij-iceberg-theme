@@ -1,10 +1,6 @@
-<!-- Keep a Changelog guide -> https://keepachangelog.com -->
-
-# intellij-iceberg-theme Changelog
+# Changelog
 
 ## [Unreleased]
-
-## [0.1.0] - 2020-09-24
 ### Added
 - First version of the theme, with basic support of languages
   - Java
