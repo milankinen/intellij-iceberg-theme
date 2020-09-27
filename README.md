@@ -1,4 +1,4 @@
-# idea-iceberg-theme
+# intellij-iceberg-theme
 
 ![Build](https://github.com/milankinen/idea-iceberg-theme/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)

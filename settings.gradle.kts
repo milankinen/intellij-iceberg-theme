@@ -1,1 +1,1 @@
-rootProject.name = "idea-iceberg-theme"
+rootProject.name = "intellij-iceberg-theme"

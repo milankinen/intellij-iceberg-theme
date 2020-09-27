@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# idea-iceberg-theme Changelog
+# intellij-iceberg-theme Changelog
 
 ## [Unreleased]
 
