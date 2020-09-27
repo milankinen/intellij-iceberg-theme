@@ -121,8 +121,8 @@
     },
     "EditorTabs": {
       "borderColor": "#1E2132",
-      "inactiveUnderlineColor": "#7d8199",
-      "underlineColor": "#1E2132",
+      "inactiveUnderlineColor": "#1E2132",
+      "underlineColor": "#4A527C",
       "underlinedTabBackground": "#1E2132",
       "hoverBackground": "#1E2132"
     },
