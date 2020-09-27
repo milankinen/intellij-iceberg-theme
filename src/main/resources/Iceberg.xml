@@ -29,7 +29,7 @@
     <option name="READONLY_BACKGROUND" value="161822" />
     <option name="RIGHT_MARGIN_COLOR" value="4a527c" />
     <option name="SELECTED_INDENT_GUIDE" value="4a527c" />
-    <option name="SELECTION_BACKGROUND" value="242940" />
+    <option name="SELECTION_BACKGROUND" value="333a59" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="4a527c8c" />
     <option name="ScrollBar.Mac.thumbColor" value="1e213259" />
     <option name="VISUAL_INDENT_GUIDE" value="4a527c" />
@@ -396,8 +396,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4a527c" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="BACKGROUND" value="262b40" />
+        <option name="EFFECT_COLOR" value="2e334d" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
