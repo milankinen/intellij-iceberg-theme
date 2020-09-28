@@ -12,7 +12,9 @@
 Dark blue color scheme for IntelliJ platform, based on [Iceberg](https://cocopon.github.io/iceberg.vim/) 
 by [cocopon](https://github.com/cocopon).
 
-![Example](./example.png)
+![Java example](example.java.png)
+
+![Diff example](example.diff.png)
 <!-- Plugin description end -->
 
 ## Installation
