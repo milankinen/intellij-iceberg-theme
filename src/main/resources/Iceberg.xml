@@ -29,15 +29,15 @@
     <option name="READONLY_BACKGROUND" value="161822" />
     <option name="RIGHT_MARGIN_COLOR" value="4a527c" />
     <option name="SELECTED_INDENT_GUIDE" value="4a527c" />
+    <option name="SELECTED_TEARLINE_COLOR" value="464f7a" />
     <option name="SELECTION_BACKGROUND" value="333a59" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="84a0c6" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="4a527c8c" />
     <option name="ScrollBar.Mac.thumbColor" value="1e213259" />
+    <option name="TEARLINE_COLOR" value="242940" />
     <option name="VISUAL_INDENT_GUIDE" value="4a527c" />
     <option name="WHITESPACES" value="4a527c" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="4a527c" />
-    <option name="SELECTED_TEARLINE_COLOR" value="464f7a" />
-    <option name="TEARLINE_COLOR" value="242940" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -315,7 +315,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="b4be82" />
+        <option name="FOREGROUND" value="89b8c2" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
