@@ -36,7 +36,7 @@ jobs:
     name: Test
     needs: gradleValidation
     runs-on: ubuntu-latest
-    container: gradle:jdk8
+    container: java:jdk8
     steps:
 
       # Check out current repository
@@ -63,7 +63,7 @@ jobs:
     name: Build
     needs: test
     runs-on: ubuntu-latest
-    container: gradle:jdk8
+    container: java:jdk8
     outputs:
       name: ${{ steps.properties.outputs.name }}
       version: ${{ steps.properties.outputs.version }}
