@@ -4,10 +4,12 @@
 ### Added
 
 ### Changed
+- Changed test file and ignored file colors from project tree view
 
 ### Deprecated
 
 ### Removed
+- Removed test file highlighting from editor tabs
 
 ### Fixed
 
