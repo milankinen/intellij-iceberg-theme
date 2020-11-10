@@ -128,11 +128,11 @@
     },
     "FileColor": {
       "Blue": "#84A0C61A",
-      "Green": "#b4be821A",
-      "Orange": "#e2a4781A",
+      "Green": "#89b8c20F",
+      "Orange": "#e2a4780F",
       "Rose": "#e278781A",
       "Violet": "#A093C71A",
-      "Yellow": "#EBCB8B1A"
+      "Yellow": "#EBCB8B0F"
     },
     "Group": {
       "disabledSeparatorColor": "#1E2132"
