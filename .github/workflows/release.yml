@@ -12,9 +12,11 @@ jobs:
   release:
     name: Publish Plugin
     runs-on: ubuntu-latest
-    container: java:jdk8
     if: github.repository != 'JetBrains/intellij-platform-plugin-template'
     steps:
+      - uses: actions/setup-java@v1
+        with:
+          java-version: "8"
 
       # Check out current repository
       - name: Fetch Sources
@@ -33,8 +35,10 @@ jobs:
     name: Update Changelog
     needs: release
     runs-on: ubuntu-latest
-    container: java:jdk8
     steps:
+      - uses: actions/setup-java@v1
+        with:
+          java-version: "8"
 
       # Check out current repository
       - name: Fetch Sources

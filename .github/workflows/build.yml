@@ -36,8 +36,10 @@ jobs:
     name: Test
     needs: gradleValidation
     runs-on: ubuntu-latest
-    container: java:jdk8
     steps:
+      - uses: actions/setup-java@v1
+        with:
+          java-version: "8"
 
       # Check out current repository
       - name: Fetch Sources
@@ -63,13 +65,15 @@ jobs:
     name: Build
     needs: test
     runs-on: ubuntu-latest
-    container: java:jdk8
     outputs:
       name: ${{ steps.properties.outputs.name }}
       version: ${{ steps.properties.outputs.version }}
       changelog: ${{ steps.properties.outputs.changelog }}
       artifact: ${{ steps.properties.outputs.artifact }}
     steps:
+      - uses: actions/setup-java@v1
+        with:
+          java-version: "8"
 
       # Check out current repository
       - name: Fetch Sources
