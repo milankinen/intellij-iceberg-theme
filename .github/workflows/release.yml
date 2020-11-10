@@ -12,11 +12,13 @@ jobs:
   release:
     name: Publish Plugin
     runs-on: ubuntu-latest
-    if: github.repository != 'JetBrains/intellij-platform-plugin-template'
     steps:
-      - uses: actions/setup-java@v1
+
+      # Setup Java 1.8 environment for the next steps
+      - name: Setup Java
+        uses: actions/setup-java@v1
         with:
-          java-version: "8"
+          java-version: 1.8
 
       # Check out current repository
       - name: Fetch Sources
@@ -36,9 +38,12 @@ jobs:
     needs: release
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/setup-java@v1
+
+      # Setup Java 1.8 environment for the next steps
+      - name: Setup Java
+        uses: actions/setup-java@v1
         with:
-          java-version: "8"
+          java-version: 1.8
 
       # Check out current repository
       - name: Fetch Sources
@@ -60,4 +65,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
+          branch: main
           github_token: ${{ secrets.GITHUB_TOKEN }}
