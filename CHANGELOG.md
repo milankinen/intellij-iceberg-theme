@@ -4,6 +4,18 @@
 ### Added
 
 ### Changed
+
+### Deprecated
+
+### Removed
+
+### Fixed
+
+### Security
+## [0.2.0]
+### Added
+
+### Changed
 - Changed test file and ignored file colors from project tree view
 
 ### Deprecated
