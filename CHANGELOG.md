@@ -2,6 +2,18 @@
 
 ## [Unreleased]
 ### Added
+
+### Changed
+
+### Deprecated
+
+### Removed
+
+### Fixed
+
+### Security
+## [0.3.0]
+### Added
 - Added IntelliJ 2020.3 support
 
 ### Changed
