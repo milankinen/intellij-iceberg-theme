@@ -2,6 +2,7 @@
 
 ## [Unreleased]
 ### Added
+- Added IntelliJ 2020.3 support
 
 ### Changed
 
