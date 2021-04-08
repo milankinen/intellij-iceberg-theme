@@ -29,7 +29,7 @@ repositories {
 // Configure gradle-intellij-plugin plugin.
 // Read more: https://github.com/JetBrains/gradle-intellij-plugin
 intellij {
-    version = "2020.3"
+    version = "2021.1"
     pluginName = pluginName
     version = platformVersion
     type = platformType

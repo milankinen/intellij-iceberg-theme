@@ -2,7 +2,7 @@
 
 ## [Unreleased]
 ### Added
-
+- Added IntelliJ 2021.1 support
 ### Changed
 
 ### Deprecated
