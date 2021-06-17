@@ -4,12 +4,16 @@
 ### Added
 
 ### Changed
+- Increased contrast in info tooltip texts                            
+- Increased contrast for separators in `New...` popups                          
+- Improved selected item highlighting in SearchEverywhere list
 
 ### Deprecated
 
 ### Removed
 
 ### Fixed
+- Fixed SpeedSearch text color, e.g. when searching in structures view #2
 
 ### Security
 ## [0.4.0]
