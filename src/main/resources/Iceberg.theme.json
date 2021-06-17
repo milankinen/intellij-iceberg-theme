@@ -158,7 +158,9 @@
     },
     "List": {
       "background": "#161821",
-      "selectionInactiveForeground": "#e5e9f0"
+      "selectionInactiveForeground": "#e5e9f0",
+      "selectionBackground": "#4A527C",
+      "selectionForeground": "#e5e9f0"
     },
     "MemoryIndicator": {
       "allocatedBackground": "#1E2132",
