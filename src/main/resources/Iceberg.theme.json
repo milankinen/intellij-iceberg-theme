@@ -307,7 +307,7 @@
     "SpeedSearch": {
       "background": "#1E2132",
       "borderColor": "#1E2132",
-      "foreground": "#1E2132"
+      "foreground": "#7d8199"
     },
     "StatusBar": {
       "hoverBackground": "#1E2132",
