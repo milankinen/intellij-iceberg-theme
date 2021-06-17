@@ -4,6 +4,18 @@
 ### Added
 
 ### Changed
+
+### Deprecated
+
+### Removed
+
+### Fixed
+
+### Security
+## [0.5.0]
+### Added
+
+### Changed
 - Increased contrast in info tooltip texts                            
 - Increased contrast for separators in `New...` popups                          
 - Improved selected item highlighting in SearchEverywhere list
