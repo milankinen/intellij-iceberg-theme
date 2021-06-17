@@ -357,10 +357,10 @@
     },
     "ToolTip": {
       "background": "#1E2132",
-      "infoForeground": "#1E2132",
+      "infoForeground": "#4A527C",
       "Actions": {
         "background": "#1E2132",
-        "infoForeground": "#1E2132"
+        "infoForeground": "#4A527C"
       }
     },
     "ToolWindow": {
