@@ -21,6 +21,7 @@ intellij {
     pluginName.set(prop("pluginName"))
     version.set(prop("platformVersion"))
     type.set(prop("platformType"))
+    updateSinceUntilBuild.set(false)
 }
 
 changelog {
