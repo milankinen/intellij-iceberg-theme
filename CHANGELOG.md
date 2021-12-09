@@ -5,8 +5,8 @@
 
 ### Changed
 
-* Updated build file and gradle plugins (thanks @actioninja!)
-* Removed `untilVersion` from plugin definition so that every IntelliJ 
+- Updated build file and gradle plugins (thanks @actioninja!)
+- Removed `untilVersion` from plugin definition so that every IntelliJ 
   platform update doesn't break this plugin (thanks @actioninja!)
 
 ### Deprecated
