@@ -39,7 +39,7 @@ jobs:
     steps:
       - uses: actions/setup-java@v1
         with:
-          java-version: "8"
+          java-version: 11
 
       # Check out current repository
       - name: Fetch Sources
